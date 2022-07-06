@@ -1,0 +1,145 @@
+[ {
+  "id" : 1,
+  "nome" : "Serra de Bancada",
+  "categoria" : "Ferramentas",
+  "marca" : "FORTGPRO",
+  "preco" : 1800.00,
+  "quantidade" : 5,
+  "freteGratis" : true,
+  "avaliacao" : "****"
+}, {
+  "id" : 2,
+  "nome" : "Furadeira",
+  "categoria" : "Ferramentas",
+  "marca" : "Black & Decker",
+  "preco" : 500,
+  "quantidade" : 7,
+  "freteGratis" : true,
+  "avaliacao" : "****"
+}, {
+  "id" : 3,
+  "nome" : "Soldadora",
+  "categoria" : "Ferramentas",
+  "marca" : "Black & Decker",
+  "preco" : 350.00,
+  "quantidade" : 10,
+  "freteGratis" : true,
+  "avaliacao" : "***"
+}, {
+  "id" : 4,
+  "nome" : "Chuteira",
+  "categoria" : "Esportes",
+  "marca" : "Adidas",
+  "preco" : 235.00,
+  "quantidade" : 6,
+  "freteGratis" : true,
+  "avaliacao" : "*****"
+}, {
+  "id" : 5,
+  "nome" : "Mini Cama elastica",
+  "categoria" : "Esportes",
+  "marca" : "Starboard",
+  "preco" : 183.00,
+  "quantidade" : 4,
+  "freteGratis" : true,
+  "avaliacao" : "*****"
+}, {
+  "id" : 6,
+  "nome" : "Camiseta",
+  "categoria" : "Esportes",
+  "marca" : "Topper",
+  "preco" : 80.00,
+  "quantidade" : 2,
+  "freteGratis" : false,
+  "avaliacao" : "***"
+}, {
+  "id" : 7,
+  "nome" : "Redmi Note 9",
+  "categoria" : "Celulares",
+  "marca" : "Xiaomi",
+  "preco" : 2800.00,
+  "quantidade" : 15,
+  "freteGratis" : true,
+  "avaliacao" : "****"
+}, {
+  "id" : 8,
+  "nome" : "Smartwatch",
+  "categoria" : "Celulares",
+  "marca" : "Noga",
+  "preco" : 1200.00,
+  "quantidade" : 5,
+  "freteGratis" : true,
+  "avaliacao" : "**"
+}, {
+  "id" : 9,
+  "nome" : "Camisa",
+  "categoria" : "Roupas",
+  "marca" : "Fila",
+  "preco" : 79.00,
+  "quantidade" : 2,
+  "freteGratis" : false,
+  "avaliacao" : "***"
+}, {
+  "id" : 10,
+  "nome" : "Calcas",
+  "categoria" : "Roupas",
+  "marca" : "Oakley",
+  "preco" : 73.00,
+  "quantidade" : 6,
+  "freteGratis" : false,
+  "avaliacao" : "***"
+}, {
+  "id" : 11,
+  "nome" : "Meias",
+  "categoria" : "Roupas",
+  "marca" : "Gonew",
+  "preco" : 10.00,
+  "quantidade" : 8,
+  "freteGratis" : false,
+  "avaliacao" : "*"
+}, {
+  "id" : 12,
+  "nome" : "Shorts",
+  "categoria" : "Roupas",
+  "marca" : "Lacoste",
+  "preco" : 275.00,
+  "quantidade" : 9,
+  "freteGratis" : true,
+  "avaliacao" : "***"
+}, {
+  "id" : 13,
+  "nome" : "Serra de Bancada TESTE",
+  "categoria" : "Ferramentas",
+  "marca" : "FORTGPRO",
+  "preco" : 1800.00,
+  "quantidade" : 5,
+  "freteGratis" : true,
+  "avaliacao" : "****"
+}, {
+  "id" : 14,
+  "nome" : "Meias TESTE",
+  "categoria" : "Roupas",
+  "marca" : "Gonew",
+  "preco" : 10.00,
+  "quantidade" : 8,
+  "freteGratis" : false,
+  "avaliacao" : "*"
+}, {
+  "id" : 15,
+  "nome" : "Shorts TESTE",
+  "categoria" : "Roupas",
+  "marca" : "Lacoste",
+  "preco" : 275.00,
+  "quantidade" : 9,
+  "freteGratis" : true,
+  "avaliacao" : "***"
+}, {
+  "id" : 16,
+  "nome" : "Serra de Bancada",
+  "categoria" : "Ferramentas",
+  "marca" : "FORTGPRO",
+  "preco" : 1800.00,
+  "quantidade" : 5,
+  "freteGratis" : true,
+  "avaliacao" : "****"
+} ]
